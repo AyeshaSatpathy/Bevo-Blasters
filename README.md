@@ -1,4 +1,5 @@
 
+
 # 🤘 Bevo Blasters 🐂
 
 Welcome to **Bevo Blasters** — a twist on the classic Space Invaders arcade game, featuring Bevo as the shooter! As a student at The University of Texas 🧡🤘, you’ll take down rival mascots from OU, TAMU, and Georgia in this fast-paced, college rivalry showdown. Developed during HackTX 2024, this game is a tribute to Longhorn pride, showcasing UT's spirit while engaging players in retro-style gameplay.
@@ -62,7 +63,7 @@ Feel free to contribute by improving the gameplay, adding new features, or even 
 
 ## 📜 License
 
-MIT License
+[MIT License](./LICENSE)
 
 ---
 
